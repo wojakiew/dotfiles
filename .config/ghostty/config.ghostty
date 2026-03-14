@@ -1,0 +1,15 @@
+theme = Everforest Dark Hard
+background = 000000
+background-opacity = 0.78
+background-blur = true
+
+shell-integration-features = no-cursor,no-sudo,no-title
+gtk-titlebar = false
+
+# Disable Ctrl+Enter fullscreen keybind
+keybind = ctrl+enter=unbind
+
+window-save-state = always
+window-height = 33
+window-width = 120
+
