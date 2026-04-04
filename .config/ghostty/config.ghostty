@@ -13,3 +13,4 @@ window-save-state = always
 window-height = 33
 window-width = 120
 
+font-family = "Hack Nerd Font"
