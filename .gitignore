@@ -1,0 +1,2 @@
+# ingore installed tmux tpm plugins
+.config/tmux/plugins
